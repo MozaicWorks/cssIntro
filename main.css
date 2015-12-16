@@ -1,0 +1,32 @@
+/*selector {
+	property: value;
+}
+*/
+
+h1{
+	color: blue;
+}
+
+.red{
+	color: red;
+}
+
+.whiteSpaceUnder{
+	margin-bottom: 40px;
+}
+
+.showSomeProperties{
+	font-size: 40px;
+	font-weight: bold;
+	color: #dedede;
+	font-style: italic;
+	font-family: "Ubuntu";
+	text-transform: uppercase;
+	height: 100px;
+	width: 40%;
+
+	background-color: orange;
+	border: 2px solid blue;
+	padding: 20px 0;
+	margin: 30px 0 100px 0;
+}
